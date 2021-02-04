@@ -2,6 +2,8 @@
 
 /*Commento per GitHub*/
 
+/*Commento per GitHub fatto da Flavio*/
+
 /*addizione*/
 
 function addizione (n1,n2) {
