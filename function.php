@@ -1,5 +1,7 @@
 <?php
 
+/*Commento per GitHub*/
+
 /*addizione*/
 
 function addizione (n1,n2) {
